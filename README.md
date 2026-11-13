@@ -45,6 +45,6 @@ The art is cut from Blender-rendered sprite sheets by `tools/build_sprites.py` (
 python tools/build_sprites.py <sheets folder> mods/herdr-office/art
 ```
 
-## Art
+## License
 
-The characters are from Gilbak Village (길밖의 마을) and were modeled and rendered by the author. They are included so the mod works; please don't reuse them elsewhere without asking.
+The code is MIT. The character art under `mods/herdr-office/art/` is from Gilbak Village (길밖의 마을), modeled and rendered by the author, and is not: you may use it as part of this mod, but not elsewhere. See [LICENSE](LICENSE).
