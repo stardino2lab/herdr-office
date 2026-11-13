@@ -1,0 +1,11 @@
+{
+  "name": "herdr-office",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A Herdr mod: your coding agents as Gilbak Village animals by a pond.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "art": "python tools/build_sprites.py"
+  }
+}
